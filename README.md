@@ -16,7 +16,7 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width ='22px' align='left' src ='https://camo.githubusercontent.com/8b08e01db72ef188a00eb19bb8b9ec94c9646ed818b1c3f9ee443dc8947e842b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461626c6561752d69636f6e2e737667'>
 <br>
 <h2> About Me</h2>
 
