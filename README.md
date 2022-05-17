@@ -21,11 +21,9 @@
 <br>
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on my Medium profile
+- 🌱 I’m currently learning Android Architecture
 
-- 🌱 I’m currently learning Spring Boot, Android and Vue.js
-
-- 👯 I’m looking to collaborate on Spring
+- 👯 I’m looking to collaborate on Jetpack and MultiModule Architecture
 
 - 💬 Talk to me about Star Wars, Marvels
 
