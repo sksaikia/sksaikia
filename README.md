@@ -1,45 +1,28 @@
+<h1 align="center">Hi 👋, I'm Sourav Saikia</h1>
+<h3 align="center">Android Engineer at Tokopedia</h3>
 
-# Hello There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sksaikia.sksaikia)
+- 🔭 I’m currently working on **Multimodule apps and Jetpack Compose with Clean Architecture**
 
-<div size='20px'> I am  Sourav Kr. Saikia, currently working as an Android Engineer at Tokopedia :smile: 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>
-<a href = 'https://www.linkedin.com/in/sourav-saikia-780692160'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.instagram.com/build_failed/?hl=en'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href = 'https://sourav-saikia.medium.com'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://leetcode.com/NoobPotatoCoder/'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leet-code.svg"/></a> 
+- 🌱 I’m currently learning **Multimodule apps, Jetpack Compose and clean architecture**
 
-  
-  
-  
+- 🤝 I’m looking for help with **Android**
 
-</div>
-<br>
-<h2> Skills </h2>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'>
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='22px' align='left' src ='https://camo.githubusercontent.com/8b08e01db72ef188a00eb19bb8b9ec94c9646ed818b1c3f9ee443dc8947e842b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461626c6561752d69636f6e2e737667'>
-<br>
-<h2> About Me</h2>
+- 📝 I regularly write articles on [https://sourav-saikia.medium.com/](https://sourav-saikia.medium.com/)
 
-- 🌱 I’m currently learning Android Architecture and Kotlin
+- 📫 How to reach me **saikiasourav48@gmail.com**
 
-- 👯 I’m looking to collaborate on Jetpack and MultiModule Architecture
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sourav__saikia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav__saikia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sourav-kumar-saikia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-kumar-saikia" height="30" width="40" /></a>
+<a href="https://instagram.com/build_failed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="build_failed" height="30" width="40" /></a>
+<a href="https://medium.com/@sourav-saikia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sourav-saikia" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/noobpotatocoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noobpotatocoder" height="30" width="40" /></a>
+</p>
 
-- 💬 Talk to me about Star Wars, Marvels
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sksaikia&show_icons=true&locale=en&layout=compact" alt="sksaikia" /></p>
 
-## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sksaikia&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksaikia&layout=compact" />
-</a>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sksaikia&show_icons=true&locale=en" alt="sksaikia" /></p>
